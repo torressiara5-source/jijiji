@@ -1,0 +1,39 @@
+body {
+    background-color: hsl(253, 46%, 61%);
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    color: #569935;
+}
+h1 {
+    font-family: "new font", cursive;
+    color: #faf2f2;
+    font-size: 5rem;
+    text-align: center;
+}
+
+
+
+#toca {
+    background-color: #1309158f;
+    color: #e5d7d7;
+    padding: 30px 50px;
+    border: 1px solid #ce176f;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 2rem;
+    transition: background-color 0.3s ease;
+    display: block;
+    margin: 0 auto;
+}
+
+#disponibles {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #faf2f2;
+    margin-right: 10px;
+    display: block;        /* Lo convierte en elemento de bloque para que acepte centrado */
+    text-align: center;
+}
+#mensaje {
+    text-align: center;
+}
